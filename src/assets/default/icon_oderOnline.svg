@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="56" height="56" viewBox="0 0 56 56">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1.334" y1="-0.298" x2="-0.072" y2="1.076" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1bffff"/>
+      <stop offset="1" stop-color="#4a4fe6"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_8735" data-name="Rectangle 8735" width="24" height="24" transform="translate(216 599)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Group_47" data-name="Group 47" transform="translate(-284 -460)">
+    <g id="Group_29" data-name="Group 29" transform="translate(232 -21)">
+      <rect id="Rectangle_26" data-name="Rectangle 26" width="56" height="56" rx="28" transform="translate(52 481)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+  <g id="Group_5800" data-name="Group 5800" transform="translate(-200 -583)">
+    <g id="Mask_Group_676" data-name="Mask Group 676" clip-path="url(#clip-path)">
+      <g id="online-order" transform="translate(214.607 598)">
+        <g id="Group_5798" data-name="Group 5798" transform="translate(0 1)">
+          <path id="Path_50546" data-name="Path 50546" d="M16.626,6.441a.469.469,0,0,0-.466-.419H14.931V5.675a1.531,1.531,0,1,0-3.062,0v.346H10.626a.469.469,0,0,0-.466.419l-.469,4.42a.469.469,0,0,0,.466.518h6.472a.469.469,0,0,0,.466-.518Zm-3.82-.766a.594.594,0,1,1,1.187,0v.346H12.806Zm-2.128,4.766.369-3.482h.821v.466a.469.469,0,0,0,.938,0V6.959h1.187v.466a.469.469,0,0,0,.938,0V6.959h.807l.369,3.482Z" transform="translate(0 5)" fill="#f6f6f6"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_5799" data-name="Group 5799" transform="translate(-2 -1)">
+      <g id="Rectangle_8736" data-name="Rectangle 8736" transform="translate(222 600)" fill="none" stroke="#f6f6f6" stroke-width="1.6">
+        <rect width="16" height="24" rx="3" stroke="none"/>
+        <rect x="0.8" y="0.8" width="14.4" height="22.4" rx="2.2" fill="none"/>
+      </g>
+      <path id="Path_50547" data-name="Path 50547" d="M1266.121-945.655h3.838" transform="translate(-1037.6 1549)" fill="none" stroke="#f6f6f6" stroke-linecap="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,47 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)
+// swift-module-flags: -target arm64-apple-ios9.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name MyccSDK
+import AVFoundation
+import CallKit
+import CommonCrypto
+import CoreTelephony
+import Foundation
+@_exported import MyccSDK
+import Swift
+import SystemConfiguration
+import UIKit
+import UserNotifications
+import WebKit
+import _Concurrency
+import linphone
+import os
+@_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @objc public class SDKCallChatConfig : ObjectiveC.NSObject {
+  public var accId: Swift.String!
+  public var sipProxy: Swift.String!
+  @objc public static func instance() -> MyccSDK.SDKCallChatConfig
+  @objc public func setConfig(userName: Swift.String, sipDomain: Swift.String, hashingKey: Swift.String, requestedBy: Swift.String, apiBaseUrl: Swift.String, isUseTCP: Swift.Bool = false)
+  @objc public func setUsername(_ userName: Swift.String)
+  @objc public func setSipDomain(_ sipDomain: Swift.String)
+  @objc public func setRequestedBy(_ requestedBy: Swift.String)
+  @objc public func setApiBaseUrl(_ apiBaseUrl: Swift.String)
+  @objc public func setHashingKey(_ hashingKey: Swift.String)
+  @objc public func enableUseTCP(_ isUseTCP: Swift.Bool)
+  @objc public func isUseTCP(boo: Swift.Bool)
+  @objc deinit
+}
+@objc public protocol SDKCallChatManagerDelegate {
+  @objc func registerSucceesAction(_ status: Swift.Bool)
+}
+@_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @objc public class SDKCallChatManager : ObjectiveC.NSObject {
+  @objc public var delegate: MyccSDK.SDKCallChatManagerDelegate?
+  @objc public var registerSucceesAction: ((Swift.Bool) -> Swift.Void)?
+  @objc public var registerAPI: ((Swift.Bool) -> Swift.Void)?
+  @objc public static func instance() -> MyccSDK.SDKCallChatManager
+  @objc deinit
+}
+extension MyccSDK.SDKCallChatManager {
+  @objc dynamic public func showChat(parent: UIKit.UIViewController)
+  @objc dynamic public func showCall(toPhoneNumber: Swift.String, parent: UIKit.UIViewController)
+  @objc dynamic public func showVideoCall(toPhoneNumber: Swift.String, parent: UIKit.UIViewController)
+}
+public func printLogMessageWithTag(_ message: Any?, classTag: Swift.AnyClass)

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_9107" data-name="Rectangle 9107" width="16" height="16" transform="translate(0.375)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_797" data-name="Mask Group 797" transform="translate(-0.375)" clip-path="url(#clip-path)">
+    <g id="calendar-number-outline" transform="translate(0.946 0.571)">
+      <rect id="Rectangle_9106" data-name="Rectangle 9106" width="14.857" height="13.714" rx="1.714" transform="translate(0 1.143)" fill="none" stroke="#e03" stroke-linejoin="round" stroke-width="1.143"/>
+      <path id="Path_50807" data-name="Path 50807" d="M4.571,1.714V2.857m9.143-1.143V2.857m2.857,2.857H1.714m9.143,3.571,1.551-1.143h.164v6M6.852,10.951A2.008,2.008,0,0,0,8.164,10.4a1.354,1.354,0,0,0,.4-.974A1.517,1.517,0,0,0,6.851,8,1.539,1.539,0,0,0,5.5,8.676m-.178,4.687a1.885,1.885,0,0,0,1.567.923A1.653,1.653,0,0,0,8.75,12.721a1.6,1.6,0,0,0-.414-1.145,2.275,2.275,0,0,0-1.484-.624" transform="translate(-1.714 -1.714)" fill="none" stroke="#e03" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.143"/>
+    </g>
+  </g>
+</svg>

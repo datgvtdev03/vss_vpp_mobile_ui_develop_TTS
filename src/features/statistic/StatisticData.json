@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "mtk": "TK105404042034",
+    "tenca": "Ca Sáng",
+    "tentb": "Máy In nhiệt",
+    "ngaynhap": "15:39 04/04/2023"
+  },
+  {
+    "id": 2,
+    "mtk": "TK133404042035",
+    "tenca": "Ca chiều",
+    "tentb": "Máy In thường",
+    "ngaynhap": "13:39 04/04/2023"
+  },
+  {
+    "id": 3,
+    "mtk": "TK149404042036",
+    "tenca": "Ca Tối",
+    "tentb": "Máy In nhiệt",
+    "ngaynhap": "20:32 04/04/2023"
+  },
+  {
+    "id": 4,
+    "mtk": "TK148904042037",
+    "tenca": "Ca Sáng",
+    "tentb": "Máy In nhiệt",
+    "ngaynhap": "09:39 05/04/2023"
+  },
+  {
+    "id": 5,
+    "mtk": "TK145404042038",
+    "tenca": "Ca Chiều",
+    "tentb": "Máy In thường",
+    "ngaynhap": "14:09 05/04/2023"
+  },
+  {
+    "id": 6,
+    "mtk": "TK145104042039",
+    "tenca": "Ca Tối",
+    "tentb": "Máy In nhiệt",
+    "ngaynhap": "18:23 05/04/2023"
+  },
+  {
+    "id": 7,
+    "mtk": "TK125404042040",
+    "tenca": "Ca Sáng",
+    "tentb": "Máy In thường",
+    "ngaynhap": "11:17 06/04/2023"
+  },
+  {
+    "id": 8,
+    "mtk": "TK148404042041",
+    "tenca": "Ca Chiều",
+    "tentb": "Máy In nhiệt",
+    "ngaynhap": "16:15 06/04/2023"
+  },
+  {
+    "id": 9,
+    "mtk": "TK145604042042",
+    "tenca": "Ca Tối",
+    "tentb": "Máy In thường",
+    "ngaynhap": "21:39 06/04/2023"
+  },
+  {
+    "id": 10,
+    "mtk": "TK141404042043",
+    "tenca": "Ca Sáng",
+    "tentb": "Máy In nhiệt",
+    "ngaynhap": "08:39 07/04/2023"
+  },
+  {
+    "id": 11,
+    "mtk": "TK149404042044",
+    "tenca": "Ca Chiều",
+    "tentb": "Máy In thường",
+    "ngaynhap": "14:23 07/04/2023"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "tentp": "Phong bì thư - PBT04",
+    "masp": "PSPPBT04",
+    "tugio": "8:00 05/04/2023",
+    "dengio": "12:00 05/04/2023",
+    "cdsx": "Chế bản",
+    "donvi": "Cái",
+    "lenbai": "Xong",
+    "noidung": "Hoàn thành",
+    "tongsl": "10000",
+    "slhong": "2"
+  },
+  {
+    "id": 2,
+    "tentp": "Catalogue A4 - 12 trang",
+    "masp": "PSPCatalogue",
+    "tugio": "8:00 04/04/2023",
+    "dengio": "12:00 04/04/2023",
+    "cdsx": "Dán",
+    "donvi": "Cái",
+    "lenbai": "Dừng In",
+    "noidung": "Lỗi",
+    "tongsl": "50",
+    "slhong": "50"
+  },
+  {
+    "id": 3,
+    "tentp": "Name card - Danh thiếp",
+    "masp": "PSPNameCard",
+    "tugio": "13:00 04/04/2023",
+    "dengio": "17:00 04/04/2023",
+    "cdsx": "In",
+    "donvi": "Cái",
+    "lenbai": "Xong",
+    "noidung": "Hoàn thành",
+    "tongsl": "100",
+    "slhong": "0"
+  },
+  {
+    "id": 4,
+    "tentp": "Hộp giấy HGKB06",
+    "masp": "PSPHGKB06",
+    "tugio": "13:00 03/04/2023",
+    "dengio": "17:00 03/04/2023",
+    "cdsx": "In",
+    "donvi": "Hộp",
+    "lenbai": "Chạy tiếp và không lỗi",
+    "noidung": "Hoàn thành",
+    "tongsl": "150",
+    "slhong": "30"
+  },
+  {
+    "id": 5,
+    "tentp": "Decan máy in nhiệt",
+    "masp": "PSP04042023",
+    "tugio": "8:00 03/04/2023",
+    "dengio": "12:00 03/04/2023",
+    "cdsx": "Chế bản",
+    "donvi": "Cái",
+    "lenbai": "Chạy tiếp và không lỗi",
+    "noidung": "Hoàn thành",
+    "tongsl": "200",
+    "slhong": "0"
+  }
+]

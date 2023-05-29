@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "706728405369",
+    "project_id": "vpp1-7f75b",
+    "storage_bucket": "vpp1-7f75b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706728405369:android:b286534e2866bd26a827a8",
+        "android_client_info": {
+          "package_name": "vn.viettelprinting.vpp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706728405369-ijk298eii4ef33ehc206ig9o4s4h49e0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3Zhn_yfcEvKiUhr4_4_Sl1MtMnhoNAak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706728405369-ijk298eii4ef33ehc206ig9o4s4h49e0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

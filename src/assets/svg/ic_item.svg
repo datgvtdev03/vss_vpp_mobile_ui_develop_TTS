@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_19" data-name="Rectangle 19" width="20" height="20" fill="#aaa" stroke="#aaa" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Group_66" data-name="Group 66" transform="translate(-14 -2)">
+    <g id="Mask_Group_10" data-name="Mask Group 10" transform="translate(14 2)" clip-path="url(#clip-path)">
+      <g id="assignment" transform="translate(2.373 0)">
+        <g id="Layer_2" data-name="Layer 2">
+          <g id="Layer_1" data-name="Layer 1">
+            <g id="assignment-2" data-name="assignment">
+              <path id="Path_23" data-name="Path 23" d="M11.695,20.475H3.559A3.563,3.563,0,0,1,0,16.915V6.407A3.563,3.563,0,0,1,3.559,2.847h8.136a3.563,3.563,0,0,1,3.559,3.559V16.915a3.563,3.563,0,0,1-3.559,3.559ZM3.559,4.542A1.868,1.868,0,0,0,1.695,6.407V16.915A1.868,1.868,0,0,0,3.559,18.78h8.136a1.868,1.868,0,0,0,1.864-1.864V6.407a1.868,1.868,0,0,0-1.864-1.864Z" transform="translate(0 -0.475)" fill="#aaa"/>
+              <path id="Path_24" data-name="Path 24" d="M11.153,18.78H5.729a.847.847,0,1,1,0-1.695h5.424a.847.847,0,0,1,0,1.695Z" transform="translate(-0.814 -2.847)" fill="#aaa"/>
+              <path id="Path_25" data-name="Path 25" d="M11.424,14.1h-6.1a.847.847,0,1,1,0-1.695h6.1a.847.847,0,1,1,0,1.695Z" transform="translate(-0.746 -2.068)" fill="#aaa"/>
+              <path id="Path_26" data-name="Path 26" d="M11.424,9.424h-6.1a.847.847,0,1,1,0-1.695h6.1a.847.847,0,1,1,0,1.695Z" transform="translate(-0.746 -1.288)" fill="#aaa"/>
+              <path id="Path_27" data-name="Path 27" d="M11.051,3.39a2.373,2.373,0,1,0-4.746,0Z" transform="translate(-1.051 -0.169)" fill="#aaa"/>
+              <path id="Path_28" data-name="Path 28" d="M10.881,4.068H6.136a.847.847,0,0,1-.847-.847,3.22,3.22,0,1,1,6.441,0A.847.847,0,0,1,10.881,4.068ZM7.241,2.373H9.776a1.525,1.525,0,0,0-2.536,0Z" transform="translate(-0.881 0)" fill="#aaa"/>
+              <circle id="Ellipse_2" data-name="Ellipse 2" cx="0.847" cy="0.847" r="0.847" transform="translate(6.78 1.525)" fill="#aaa"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

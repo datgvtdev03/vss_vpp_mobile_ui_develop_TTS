@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>706728405369-vj7firlo8qtie68ipgbi3lsd82id8eu3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.706728405369-vj7firlo8qtie68ipgbi3lsd82id8eu3</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>706728405369-gafg0c9kt25sd8ncnthlpgmle0brt9l1.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCrHSt0ogoVvRRVMceyRxE6g-bjl4aTcFc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>706728405369</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>vn.viettelprinting.vpp</string>
+	<key>PROJECT_ID</key>
+	<string>vpp1-7f75b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>vpp1-7f75b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:706728405369:ios:34c9fd54a864d469a827a8</string>
+</dict>
+</plist>

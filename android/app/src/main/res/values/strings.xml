@@ -1,0 +1,8 @@
+<resources>
+    <!-- CodePush Production -->
+    <string moduleConfig="true" name="CodePushDeploymentKey">sb-_hsYfOBXtlPxVexWEKpnJgxzasdRY7TEr6</string>
+    <string name="default_notification_channel_id">firebase-notification</string>
+    <string name="app_name">Viettel Printing</string>
+    <string name="appCenterCrashes_whenToSendCrashes" moduleConfig="true" translatable="false">DO_NOT_ASK_JAVASCRIPT</string>
+    <string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true" translatable="false">ALWAYS_SEND</string>
+</resources>
