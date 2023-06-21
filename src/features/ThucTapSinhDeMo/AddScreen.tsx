@@ -33,6 +33,8 @@ const AddScreen = ({ route }: Props) => {
   const [product, setProduct] = useState();
   const [customerName, setCustomerName] = useState();
 
+  console.log("click: ", voteSelected);
+
   return (
     <View style={tw("flex-1")}>
       <DefaultActionBar
@@ -78,8 +80,41 @@ const AddScreen = ({ route }: Props) => {
                 <PickerInputWithLabel
                   label="Phiếu sản phẩm"
                   name="vote"
-                  data={["data 1, data 2, data 3"]}
+                  data={[
+                    {
+                      id: 6198,
+                      soPhieuSp: "0334/2023/HCM-OFF",
+                      soPhieuSPCon: "0334/2023/HCM-OFF",
+                      ngayPsp: 1678122000000,
+                      soLuong: 103200.0,
+                      kichThuoc: "83*60*140",
+                      ghiChu:
+                        "KT: 140 x 83 x 60 mm, Giấy D350gsm, in 5 màu 1 mặt, cán carlendering, bế, dán, thành phẩm đóng thùng carton",
+                      tenSpCon: "Hộp giấy Bơ trứng 45g_Tianjin",
+                      idThanhPham: 3216,
+                      idKhachHang: 3052,
+                      tenThanhPham: "Hộp giấy Bơ trứng 45g_Tianjin",
+                      tenKhachHang: "CÔNG TY CỔ PHẦN THỰC PHẨM RICHY MIỀN NAM",
+                    },
+                    {
+                      id: 6199,
+                      soPhieuSp: "0335/2023/HCM-OFF",
+                      soPhieuSPCon: "0335/2023/HCM-OFF",
+                      ngayPsp: 1678122000000,
+                      soLuong: 9380.0,
+                      kichThuoc: "248*170*45",
+                      ghiChu:
+                        "KT: 248 x 170 x 45 mm, giấy D400gsm, in 5 màu 1 mặt, cán carlendering, bế, dán, thành phẩm đóng thùng carton",
+                      tenSpCon: "Khay giấy Bơ trứng 45g_Tianjin",
+                      idThanhPham: 3217,
+                      idKhachHang: 3052,
+                      tenThanhPham: "Khay giấy Bơ trứng 45g_Tianjin",
+                      tenKhachHang: "CÔNG TY CỔ PHẦN THỰC PHẨM RICHY MIỀN NAM",
+                    },
+                  ]}
                   title="Chọn phiếu sản phẩm"
+                  itemText={"soPhieuSp"}
+                  itemValue={"id"}
                   required
                   value={voteSelected}
                   onFinish={(device) => setVoteSelected(device)}

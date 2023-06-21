@@ -107,7 +107,7 @@ const Home = (): React.ReactElement => {
         id: MenuType.Customer,
         title: "Menu 3",
         icon: <Svgs.Salary />,
-        badge: 0,
+        badge: 15,
         disable: false,
         action: () => alert("Clicked"),
       },

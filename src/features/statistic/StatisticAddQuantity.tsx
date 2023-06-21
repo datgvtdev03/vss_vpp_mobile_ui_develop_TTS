@@ -64,6 +64,7 @@ const StatisticAddQuantity = ({ route }: Props) => {
   const [stages, setStages] = useState<Stage[]>([]);
   const [units, setUnits] = useState<Unit[]>([]);
 
+  //goi api
   const getProductTicketByDate = async () => {
     const resProduct = await StatisticApi.getProductTicketByDate(
       dayjs("2021-11-16").format("YYYY-MM-DD"),
